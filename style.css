@@ -1,0 +1,79 @@
+* {
+   box-sizing: border-box;
+ }
+
+ header{
+    background: no-repeat center/cover url("asset/escad.jpg");
+    height:100vh;
+ 
+ }
+    
+ 
+ nav {
+    color: white ;
+    margin-left: 5%;
+    font-family:monospace;
+ }
+
+.header_desc{
+   font-family: 'Roboto Mono', monospace;
+   color:red;
+   max-width: 400px;
+   margin: 150px auto;
+   font-weight: bolder;
+   text-align: justify;
+  
+   
+}
+    
+.tit_padrao {
+    color: red;
+    font-family: monospace ;
+    font-weight: bolder;
+    font-size : 40px;
+    width:50%;
+    margin: 0 auto;
+    margin-top:5%;
+}
+
+.sub_coments{
+   color:#808080;
+   font-family: monospace;
+   font-size:20px;
+   width: 50%;
+   margin: 0 auto;
+}
+
+.sub_coments_alf{
+   color:#808080;
+   font-family: monospace;
+   font-size:20px;
+   width: 50%;
+    margin: 0 auto;
+}
+
+.padrao_paragraf{
+   font-family:Helvetica;
+   font-size:20px;
+   margin: 0 auto;
+   margin-top:5%;
+   text-align: justify;
+   width: 50%;
+}
+
+.sub_tit{
+   margin: 0 auto;
+   width: 50%;
+   font-family: monospace;
+   font-weight: bolder;
+   margin-top:5%;
+
+}
+
+.padrao_sub_img{
+
+   text-align:center;
+   margin-top:5%;
+    
+   
+}
